@@ -1,0 +1,2 @@
+# gnome_shell_extension_argos_openscreencast
+gnome_shell_extension_argos_openscreencast
