@@ -1,2 +1,3 @@
-# gnome_shell_extension_argos_openscreencast
-gnome_shell_extension_argos_openscreencast
+Skripte von openscreencast.de für die Gnome Shell Extension Argos
+
+
