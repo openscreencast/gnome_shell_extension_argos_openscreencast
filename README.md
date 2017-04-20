@@ -4,7 +4,7 @@ openscreencast.sh (Skript) für die Gnome Shell Extension [Argos](https://github
 
 ### openscreencast.sh
 
-Gnome Shell Extension Argos muss vorher installiert und aktiviert werden.
+Gnome Shell Extension Argos muss vorher installiert und aktiviert werden (Anleitung: https://github.com/p-e-w/argos).
 Danach wird die Datei openscreencast.sh ins Verzeichnis ~/.config/argos/ kopiert.
 
 Beispiel:
@@ -14,6 +14,9 @@ git clone https://github.com/openscreencast/gnome_shell_extension_argos_openscre
 cd gnome_shell_extension_argos_openscreencast
 cp openscreencast.sh ~/.config/argos/
 ```
+
+![Screenshot](screenshot.png)    
+***Screenshot***
 
 ## Lizenz
 
